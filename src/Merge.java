@@ -33,6 +33,7 @@ public class Merge{
     }
 
     public static void main(String[] args) {
+        System.out.println("All Rights Reserved.");
         System.out.print("Enter the number of elements of list 1 :");
         int n1 = scanner.nextInt();
         String list1[] = new String[n1];
